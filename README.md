@@ -7,7 +7,7 @@ Train a neural network to classify movie reviews from the IMDb dataset as positi
 Dataset:
 
 The dataset contains movie reviews with corresponding sentiments (positive or negative).
-It's stored in a file named 'IMDB Dataset.csv'.
+It's stored in a file named https://drive.google.com/file/d/1hyCr4UPsYdHsvrlGksnOR8J-Zol4zwoy/view?usp=sharing.
 
 Instructions
 
